@@ -1,0 +1,11 @@
+streamlit
+audio-recorder-streamlit
+crewai>=0.80.0
+groq
+litellm
+gtts
+flask-bcrypt
+flask
+sqlalchemy
+psycopg2-binary
+python-dotenv
